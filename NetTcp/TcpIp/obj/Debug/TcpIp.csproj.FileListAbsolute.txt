@@ -1,0 +1,1 @@
+E:\NetZ\NetTcp\TcpIp\bin\Debug\TcpIp.exe.config

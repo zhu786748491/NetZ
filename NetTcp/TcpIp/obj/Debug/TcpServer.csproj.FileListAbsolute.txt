@@ -1,0 +1,5 @@
+E:\NetZ\NetTcp\TcpIp\bin\Debug\TcpServer.exe.config
+E:\NetZ\NetTcp\TcpIp\bin\Debug\TcpServer.exe
+E:\NetZ\NetTcp\TcpIp\bin\Debug\TcpServer.pdb
+E:\NetZ\NetTcp\TcpIp\obj\Debug\TcpServer.exe
+E:\NetZ\NetTcp\TcpIp\obj\Debug\TcpServer.pdb

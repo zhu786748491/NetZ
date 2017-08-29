@@ -1,0 +1,6 @@
+E:\NetZ\NetTcp\TcpClient\bin\Debug\TcpClient.exe.config
+E:\NetZ\NetTcp\TcpClient\bin\Debug\TcpClient.exe
+E:\NetZ\NetTcp\TcpClient\bin\Debug\TcpClient.pdb
+E:\NetZ\NetTcp\TcpClient\obj\Debug\TcpClient.exe
+E:\NetZ\NetTcp\TcpClient\obj\Debug\TcpClient.pdb
+E:\NetZ\NetTcp\TcpClient\obj\Debug\TcpClient.csprojResolveAssemblyReference.cache
